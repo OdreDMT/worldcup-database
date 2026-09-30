@@ -1,5 +1,7 @@
 #! /bin/bash
-# Typos are just intense !!!
+# Typos are just intense !!! 
+#I need to practice this again and again 
+
 
 if [[ $1 == "test" ]]
 then
